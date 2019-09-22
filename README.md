@@ -1,4 +1,4 @@
-# A Developer's Guide to develop ChatBots with Bot Framework v.4 and .Net Core
+# A Developer's Guide to develop Chat Bots with Bot Framework v.4 and .Net Core
 
 # Introduction
 
@@ -25,3 +25,9 @@ The purpose of this guide to is help .Net developers to understand the developme
 - Cognitive Services
   - QnA Maker
   - LUIS
+
+## Bot Deployment
+
+![Bot Deployment](Bot4Deployment.png)
+
+## Bot Samples and Tools
