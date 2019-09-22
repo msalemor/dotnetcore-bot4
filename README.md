@@ -36,3 +36,16 @@ The purpose of this guide to is help .Net developers to understand the developme
 ![Bot Deployment](Bot4Deployment.png)
 
 ## Bot Samples and Tools
+
+- Bot Framework Emulator
+  - https://github.com/Microsoft/BotFramework-Emulator/releases/tag/v4.5.2
+- Ngrok
+  - https://ngrok.com/
+- Bot Framework Samples
+  - https://github.com/Microsoft/BotBuilder-Samples/blob/master/README.md
+  
+## Cognitive Services
+
+- QnA Maker
+- LUIS
+
