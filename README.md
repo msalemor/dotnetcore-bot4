@@ -15,7 +15,7 @@ The purpose of this guide to is help .Net developers to understand the developme
   - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.2
 - Middleware
   - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-2.2
-- Other Fundamentals
+- Other .Net Core Fundamentals
   - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-2.1&tabs=macos
 
 ## Bot Concepts
