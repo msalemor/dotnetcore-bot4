@@ -39,6 +39,16 @@ The purpose of this guide to is help .Net developers to understand the developme
     - User state: is available in any turn that the bot is conversing with that user on that channel, regardless of the conversation
     - Conversation: state is available in any turn in a specific conversation, regardless of user (i.e. group conversations)
     - Private conversation: state is scoped to both the specific conversation and to that specific user
+  - When to use each type of state:
+    - Conversation state is good for tracking the context of the conversation, such as:
+      - Whether the bot asked the user a question, and which question that was
+      - What the current topic of conversation is, or what the last one was
+    - User state is good for tracking information about the user, such as:
+      - Non-critical user information, such as name and preferences, an alarm setting, or an alert preference
+      - Information about the last conversation they had with the bot
+    - Private conversation state is good for channels that support group conversations, but where you want to track both user and conversation specific information. For example, if you had a classroom clicker bot:
+      - The bot could aggregate and display student responses for a given question.
+      - The bot could aggregate each student's performance and privately relay that back to them at the end of the session.
   - More on state:
     - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-state?view=azure-bot-service-4.0
 
