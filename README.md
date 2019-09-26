@@ -51,6 +51,7 @@ The purpose of this guide to is help .Net developers to understand the developme
       - The bot could aggregate each student's performance and privately relay that back to them at the end of the session.
   - More on state:
     - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-state?view=azure-bot-service-4.0
+    - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-v4-state?view=azure-bot-service-4.0&tabs=csharp
 
 ## Bot Deployment
 
