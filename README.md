@@ -34,7 +34,7 @@ The purpose of this guide to is help .Net developers to understand the developme
     - **User state** is available in any turn that the bot is conversing with that user on that channel, regardless of the conversation
     - **Conversation** state is available in any turn in a specific conversation, regardless of user (i.e. group conversations)
     - **Private conversation** state is scoped to both the specific conversation and to that specific user
-
+  - More on state: https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-state?view=azure-bot-service-4.0
 
 ## Bot Deployment
 
