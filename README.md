@@ -16,6 +16,8 @@ The purpose of this guide to is help .Net developers to understand the developme
 - Middleware
   - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-2.1
   - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/write?view=aspnetcore-2.1
+- Async/Await
+  - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
 - Other .Net Core Fundamentals
   - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-2.1&tabs=macos
 
