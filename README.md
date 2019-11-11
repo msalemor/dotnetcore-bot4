@@ -69,8 +69,13 @@ The purpose of this guide to is help .Net developers to understand the developme
 - Bot Framework Samples
   - https://github.com/Microsoft/BotBuilder-Samples/blob/master/README.md
   
-## Cognitive Services
+## Other links
 
-- QnA Maker
-- LUIS
+- Managing State
+  - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-state?view=azure-bot-service-4.0
+- Dialogs 
+  - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-dialog?view=azure-bot-service-4.0
+- Middleware
+  - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-middleware?view=azure-bot-service-4.0
+
 
