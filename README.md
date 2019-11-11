@@ -68,6 +68,8 @@ The purpose of this guide to is help .Net developers to understand the developme
   - https://ngrok.com/
 - Bot Framework Samples
   - https://github.com/Microsoft/BotBuilder-Samples/blob/master/README.md
+- SDK Source Code
+  - https://github.com/Microsoft/botbuilder-dotnet/#packages
   
 ## Other links
 
