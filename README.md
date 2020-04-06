@@ -56,6 +56,18 @@ The purpose of this guide to is help .Net developers to understand the developme
     - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-state?view=azure-bot-service-4.0
     - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-v4-state?view=azure-bot-service-4.0&tabs=csharp
 
+## Dialogs
+
+Dialogs are a central concept in the SDK, and provide a useful way to manage a conversation with the user. Dialogs are structures in your bot that act like functions in your bot's program; each dialog is designed to perform a specific task, in a specific order. You can specify the order of individual dialogs to guide the conversation, and invoke them in different ways - sometimes in response to a user, sometimes in response to some outside stimuli, or from other dialogs.
+
+### Dialog State
+
+Dialogs are an approach to implementing a multi-turn conversation, and as such, they are an example of a feature in the SDK that relies on persisted state across multiple turns. Without state in dialogs, your bot wouldn't know where in the dialog set it is or what information it has already gathered.
+
+### Dialog types
+
+Dialogs come in a few different types: prompts, waterfall dialogs, and component dialogs, as shown in this class hierarchy.
+
 ## Bot Deployment
 
 ![Bot Deployment](Bot4Deployment.png)
